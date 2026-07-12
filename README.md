@@ -36,7 +36,7 @@
 - 🔒 Configured public/private subnets, Bastion Host, and Security Groups for a secure production-ready infrastructure
 - 📈 Implemented Auto Scaling, Target Groups, and Health Checks for high availability and scalability
 - 🚀 Designed a deployment architecture following AWS production best practices
-Link: https://github.com/pranjalyallurkar/VPC-public-private-architecture
+- Link: https://github.com/pranjalyallurkar/VPC-public-private-architecture
 
 ### 🤖 HireFlow – AI-Powered Applicant Tracking System
 **Jan 2026 – Mar 2026**
@@ -44,7 +44,7 @@ Link: https://github.com/pranjalyallurkar/VPC-public-private-architecture
 - 🧠 Developed AI-powered resume parsing and job matching with candidate compatibility scores (0–100%)
 - 👥 Created role-based dashboards for Candidates, Recruiters, and Admins with a modern React interface
 - 📋 Implemented complete hiring workflow with REST APIs, real-time application tracking, and recruiter status management
-Link: https://github.com/Rutikakolhapure/HireFlow
+- Link: https://github.com/Rutikakolhapure/HireFlow
 
 ### 🌱 Agro-Optics – AI-Powered Soil Intelligence & Plant Disease Detection
 **Apr 2025 – Jun 2025**
@@ -52,7 +52,7 @@ Link: https://github.com/Rutikakolhapure/HireFlow
 - 🧠 Developed CNN and transfer learning models achieving ~88% accuracy for soil classification and disease detection
 - 🌦️ Integrated weather APIs with AI predictions to provide NPK estimation, pH insights, and weather-aware crop recommendations
 - 🔄 Designed an end-to-end pipeline from image upload to AI inference, recommendation generation, and prediction history storage
-Link: https://github.com/Rutikakolhapure/project
+- Link: https://github.com/Rutikakolhapure/project
 ---
 
 ## 🛠️ Tech Stack
