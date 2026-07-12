@@ -30,23 +30,29 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 NeuroScope AI – Parkinson’s Disease Detection System
+### ☁️ Production-Style React Application Deployment on AWS
 **Nov 2025 – Feb 2026**
-- 🧬 Built a multimodal ML system for early Parkinson’s detection using facial, speech, and movement analysis  
-- 🤖 Used SVM and Random Forest models for classification  
-- 🌐 Developed FastAPI backend and React dashboard for predictions  
-- 💾 Used SQLite for data storage and management  
+- ☁️ Deployed a React application on AWS using a custom VPC, EC2, Nginx, and an Application Load Balancer (ALB)
+- 🔒 Configured public/private subnets, Bastion Host, and Security Groups for a secure production-ready infrastructure
+- 📈 Implemented Auto Scaling, Target Groups, and Health Checks for high availability and scalability
+- 🚀 Designed a deployment architecture following AWS production best practices
+Link: https://github.com/pranjalyallurkar/VPC-public-private-architecture
 
----
-
-### 🌐 Jobify – Microservices Job Portal
+### 🤖 HireFlow – AI-Powered Applicant Tracking System
 **Jan 2026 – Mar 2026**
-- 🏗️ Built a microservices-based job portal with independent services for authentication, jobs, candidates, and chat  
-- 🔐 Implemented JWT authentication and REST APIs  
-- 🧩 Designed scalable backend architecture using Django services  
-- 🐳 Fully containerized using Docker for deployment  
-- ☁️ Deployment-ready system designed for AWS + Kubernetes  
+- 💼 Built a full-stack Applicant Tracking System using Django REST, React, MySQL, and JWT authentication
+- 🧠 Developed AI-powered resume parsing and job matching with candidate compatibility scores (0–100%)
+- 👥 Created role-based dashboards for Candidates, Recruiters, and Admins with a modern React interface
+- 📋 Implemented complete hiring workflow with REST APIs, real-time application tracking, and recruiter status management
+Link: https://github.com/Rutikakolhapure/HireFlow
 
+### 🌱 Agro-Optics – AI-Powered Soil Intelligence & Plant Disease Detection
+**Apr 2025 – Jun 2025**
+- 🌿 Built a full-stack AI system using React, Flask, TensorFlow, and SQLite for soil classification, plant disease detection, and crop recommendations
+- 🧠 Developed CNN and transfer learning models achieving ~88% accuracy for soil classification and disease detection
+- 🌦️ Integrated weather APIs with AI predictions to provide NPK estimation, pH insights, and weather-aware crop recommendations
+- 🔄 Designed an end-to-end pipeline from image upload to AI inference, recommendation generation, and prediction history storage
+Link: https://github.com/Rutikakolhapure/project
 ---
 
 ## 🛠️ Tech Stack
